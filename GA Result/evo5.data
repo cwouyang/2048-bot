@@ -1,0 +1,2208 @@
+Generation: -1, 0 done! 
+Fittness: 37, max score: 157304, avg score: 95828.3, max tile: 8192, avg_move_sec: 105.021
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00241546
+2: 369
+3: 614
+4: 202
+5: 334
+6: 0.00124224
+Generation: -1, 29 done! 
+Fittness: 0, max score: 13412, avg score: 6539.71, max tile: 1024, avg_move_sec: 104.963
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00129366
+2: 84
+3: 632
+4: 389
+5: 794
+6: 0.00145138
+Generation: 0, 0 done! 
+Fittness: 39, max score: 173920, avg score: 82207.4, max tile: 8192, avg_move_sec: 105.008
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 3
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00241546
+2: 369
+3: 614
+4: 202
+5: 334
+6: 0.00108814
+Generation: 0, 29 done! 
+Fittness: 0, max score: 16760, avg score: 6654, max tile: 1024, avg_move_sec: 105.023
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00833333
+2: 264
+3: 85
+4: 805
+5: 270
+6: 0.00188679
+Generation: 1, 0 done! 
+Fittness: 36, max score: 163816, avg score: 91650.9, max tile: 8192, avg_move_sec: 105.022
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00241546
+2: 369
+3: 614
+4: 202
+5: 334
+6: 0.00108814
+Generation: 1, 29 done! 
+Fittness: 0, max score: 32252, avg score: 14419.7, max tile: 2048, avg_move_sec: 105.081
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00342466
+2: 126
+3: 944
+4: 424
+5: 306
+6: 0.00150376
+Generation: 2, 0 done! 
+Fittness: 34, max score: 153108, avg score: 99137.7, max tile: 8192, avg_move_sec: 105.017
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00241546
+2: 369
+3: 614
+4: 202
+5: 334
+6: 0.00108814
+Generation: 2, 29 done! 
+Fittness: 0, max score: 2816, avg score: 1485.14, max tile: 256, avg_move_sec: 1.#INF
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 1.#INF
+2: 814
+3: 688
+4: 687
+5: 165
+6: 0.025
+Generation: 3, 0 done! 
+Fittness: 38, max score: 133364, avg score: 101278, max tile: 8192, avg_move_sec: 105.048
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 8
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.002
+2: 620
+3: 550
+4: 333
+5: 683
+6: 0.003125
+Generation: 3, 29 done! 
+Fittness: 0, max score: 25364, avg score: 13334, max tile: 2048, avg_move_sec: 105.009
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00103199
+2: 79
+3: 948
+4: 338
+5: 690
+6: 0.0015083
+Generation: 4, 0 done! 
+Fittness: 30, max score: 175168, avg score: 101356, max tile: 8192, avg_move_sec: 105.016
+2048 Rate: 14
+4096 Rate: 11
+8192 Rate: 7
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0020202
+2: 344
+3: 824
+4: 72
+5: 321
+6: 0.00483092
+Generation: 4, 29 done! 
+Fittness: 0, max score: 20704, avg score: 10538, max tile: 2048, avg_move_sec: 105.045
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00436681
+2: 270
+3: 331
+4: 936
+5: 689
+6: 0.00123762
+Generation: 5, 0 done! 
+Fittness: 28, max score: 170048, avg score: 94107.1, max tile: 8192, avg_move_sec: 105.01
+2048 Rate: 13
+4096 Rate: 13
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00101523
+2: 694
+3: 891
+4: 390
+5: 721
+6: 0.00117786
+Generation: 5, 29 done! 
+Fittness: -10000, max score: 78648, avg score: 56346, max tile: 4096, avg_move_sec: 75.9169
+2048 Rate: 13
+4096 Rate: 10
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.002
+2: 944
+3: 28
+4: 288
+5: 795
+6: 1.#INF
+Generation: 6, 0 done! 
+Fittness: 29, max score: 156116, avg score: 90499.4, max tile: 8192, avg_move_sec: 105.018
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 2
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00128866
+2: 461
+3: 955
+4: 134
+5: 679
+6: 0.00202429
+Generation: 6, 29 done! 
+Fittness: 0, max score: 14616, avg score: 6895.43, max tile: 1024, avg_move_sec: 104.971
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00107527
+2: 274
+3: 56
+4: 748
+5: 333
+6: 0.00952381
+Generation: 7, 0 done! 
+Fittness: 31, max score: 155860, avg score: 86491.7, max tile: 8192, avg_move_sec: 105.001
+2048 Rate: 14
+4096 Rate: 11
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00103093
+2: 445
+3: 883
+4: 72
+5: 721
+6: 0.00121359
+Generation: 7, 29 done! 
+Fittness: 0, max score: 24304, avg score: 13400.6, max tile: 1024, avg_move_sec: 104.991
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00155521
+2: 42
+3: 918
+4: 50
+5: 430
+6: 0.003125
+Generation: 8, 0 done! 
+Fittness: 38, max score: 156520, avg score: 86778.9, max tile: 8192, avg_move_sec: 106.321
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00250627
+2: 620
+3: 847
+4: 148
+5: 103
+6: 0.00107181
+Generation: 8, 29 done! 
+Fittness: 0, max score: 32348, avg score: 11832.6, max tile: 2048, avg_move_sec: 104.947
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00469484
+2: 266
+3: 90
+4: 691
+5: 57
+6: 0.00141443
+Generation: 9, 0 done! 
+Fittness: 38, max score: 153032, avg score: 86945.1, max tile: 8192, avg_move_sec: 109.674
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00250627
+2: 620
+3: 847
+4: 148
+5: 103
+6: 0.00107181
+Generation: 9, 29 done! 
+Fittness: 0, max score: 33684, avg score: 10067.1, max tile: 2048, avg_move_sec: 105.042
+2048 Rate: 3
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00323625
+2: 61
+3: 341
+4: 611
+5: 242
+6: 0.00217391
+Generation: 10, 0 done! 
+Fittness: 27, max score: 152248, avg score: 83795.1, max tile: 8192, avg_move_sec: 108.381
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 3
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.003861
+2: 928
+3: 891
+4: 855
+5: 660
+6: 0.00265957
+Generation: 10, 29 done! 
+Fittness: 0, max score: 31944, avg score: 9406, max tile: 2048, avg_move_sec: 105.002
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00277008
+2: 227
+3: 199
+4: 431
+5: 802
+6: 0.00671141
+Generation: 11, 0 done! 
+Fittness: 31, max score: 167296, avg score: 90837.1, max tile: 8192, avg_move_sec: 105.33
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00277778
+2: 661
+3: 933
+4: 315
+5: 565
+6: 0.00121359
+Generation: 11, 29 done! 
+Fittness: 0, max score: 35464, avg score: 8390.86, max tile: 2048, avg_move_sec: 104.971
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00250627
+2: 59
+3: 922
+4: 773
+5: 103
+6: 0.00735294
+Generation: 12, 0 done! 
+Fittness: 28, max score: 132996, avg score: 84850.3, max tile: 8192, avg_move_sec: 105.012
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0013245
+2: 277
+3: 621
+4: 72
+5: 84
+6: 0.00480769
+Generation: 12, 29 done! 
+Fittness: 0, max score: 23248, avg score: 8828.86, max tile: 1024, avg_move_sec: 105.049
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00119332
+2: 438
+3: 149
+4: 976
+5: 536
+6: 0.00224215
+Generation: 13, 0 done! 
+Fittness: 37, max score: 157104, avg score: 101441, max tile: 8192, avg_move_sec: 107.109
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 7
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00277778
+2: 750
+3: 891
+4: 321
+5: 660
+6: 0.00265957
+Generation: 13, 29 done! 
+Fittness: 0, max score: 56716, avg score: 19939.1, max tile: 4096, avg_move_sec: 105.004
+2048 Rate: 4
+4096 Rate: 1
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00201613
+2: 131
+3: 36
+4: 150
+5: 377
+6: 0.00338983
+Generation: 14, 0 done! 
+Fittness: 40, max score: 173228, avg score: 96617.7, max tile: 8192, avg_move_sec: 105.014
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00277778
+2: 750
+3: 891
+4: 321
+5: 660
+6: 0.00265957
+Generation: 14, 29 done! 
+Fittness: 0, max score: 33616, avg score: 11700.3, max tile: 2048, avg_move_sec: 105.025
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00157729
+2: 7
+3: 531
+4: 234
+5: 326
+6: 0.00293255
+Generation: 15, 0 done! 
+Fittness: 33, max score: 168524, avg score: 106153, max tile: 8192, avg_move_sec: 121.117
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 7
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00414938
+2: 430
+3: 860
+4: 340
+5: 192
+6: 0.0125
+Generation: 15, 29 done! 
+Fittness: 0, max score: 30392, avg score: 11538.9, max tile: 2048, avg_move_sec: 104.995
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00373134
+2: 104
+3: 115
+4: 210
+5: 285
+6: 0.00578035
+Generation: 16, 0 done! 
+Fittness: 28, max score: 157164, avg score: 100726, max tile: 8192, avg_move_sec: 122.67
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00414938
+2: 430
+3: 860
+4: 340
+5: 192
+6: 0.0125
+Generation: 16, 29 done! 
+Fittness: 0, max score: 32028, avg score: 11113.1, max tile: 2048, avg_move_sec: 105.025
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00123153
+2: 117
+3: 386
+4: 199
+5: 898
+6: 0.00251256
+Generation: 17, 0 done! 
+Fittness: 30, max score: 173192, avg score: 96031.4, max tile: 8192, avg_move_sec: 105.014
+2048 Rate: 13
+4096 Rate: 12
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00155763
+2: 505
+3: 947
+4: 599
+5: 234
+6: 0.00165017
+Generation: 17, 29 done! 
+Fittness: 0, max score: 78508, avg score: 28008, max tile: 4096, avg_move_sec: 105.002
+2048 Rate: 5
+4096 Rate: 2
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00142653
+2: 123
+3: 754
+4: 275
+5: 221
+6: 0.00103842
+Generation: 18, 0 done! 
+Fittness: 33, max score: 171960, avg score: 87559.7, max tile: 8192, avg_move_sec: 105.042
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00353357
+2: 622
+3: 947
+4: 315
+5: 724
+6: 0.00106045
+Generation: 18, 29 done! 
+Fittness: 0, max score: 7600, avg score: 3835.43, max tile: 512, avg_move_sec: 105.051
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00127065
+2: 17
+3: 251
+4: 758
+5: 6
+6: 0.00117786
+Generation: 19, 0 done! 
+Fittness: 38, max score: 151172, avg score: 82276.3, max tile: 8192, avg_move_sec: 105.003
+2048 Rate: 14
+4096 Rate: 11
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00129702
+2: 661
+3: 767
+4: 415
+5: 462
+6: 0.00150376
+Generation: 19, 29 done! 
+Fittness: 0, max score: 4092, avg score: 2314, max tile: 256, avg_move_sec: 202240
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 1.#INF
+2: 859
+3: 550
+4: 72
+5: 782
+6: 0.00139082
+Generation: 20, 0 done! 
+Fittness: 39, max score: 168620, avg score: 88444, max tile: 8192, avg_move_sec: 105.007
+2048 Rate: 14
+4096 Rate: 11
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00117647
+2: 419
+3: 842
+4: 236
+5: 473
+6: 0.0013089
+Generation: 20, 29 done! 
+Fittness: 0, max score: 37928, avg score: 19795.1, max tile: 2048, avg_move_sec: 105.005
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00348432
+2: 159
+3: 809
+4: 176
+5: 733
+6: 0.00194932
+Generation: 21, 0 done! 
+Fittness: 40, max score: 177080, avg score: 113862, max tile: 8192, avg_move_sec: 105.038
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 7
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00117647
+2: 419
+3: 842
+4: 236
+5: 473
+6: 0.0013089
+Generation: 21, 29 done! 
+Fittness: 0, max score: 12964, avg score: 4652.57, max tile: 1024, avg_move_sec: 105.04
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00222717
+2: 8
+3: 147
+4: 342
+5: 757
+6: 0.00452489
+Generation: 22, 0 done! 
+Fittness: 38, max score: 155476, avg score: 91272.3, max tile: 8192, avg_move_sec: 105.013
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00125786
+2: 548
+3: 658
+4: 120
+5: 877
+6: 0.00162866
+Generation: 22, 29 done! 
+Fittness: 0, max score: 22904, avg score: 7451.43, max tile: 2048, avg_move_sec: 104.966
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00131579
+2: 104
+3: 393
+4: 603
+5: 127
+6: 0.0238095
+Generation: 23, 0 done! 
+Fittness: 31, max score: 156316, avg score: 90034.6, max tile: 8192, avg_move_sec: 105.011
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00175747
+2: 370
+3: 735
+4: 262
+5: 139
+6: 0.00206186
+Generation: 23, 29 done! 
+Fittness: 0, max score: 31056, avg score: 13558.3, max tile: 2048, avg_move_sec: 104.995
+2048 Rate: 3
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00117647
+2: 206
+3: 874
+4: 742
+5: 751
+6: 0.00102669
+Generation: 24, 0 done! 
+Fittness: 28, max score: 154900, avg score: 83312, max tile: 8192, avg_move_sec: 105.019
+2048 Rate: 13
+4096 Rate: 9
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00231481
+2: 561
+3: 691
+4: 263
+5: 627
+6: 0.00128535
+Generation: 24, 29 done! 
+Fittness: 0, max score: 30928, avg score: 12133.7, max tile: 2048, avg_move_sec: 104.907
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.001287
+2: 80
+3: 266
+4: 67
+5: 763
+6: 0.00502513
+Generation: 25, 0 done! 
+Fittness: 27, max score: 166596, avg score: 93226.9, max tile: 8192, avg_move_sec: 105.032
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00231481
+2: 561
+3: 691
+4: 263
+5: 627
+6: 0.00128535
+Generation: 25, 29 done! 
+Fittness: 0, max score: 35084, avg score: 9691.71, max tile: 2048, avg_move_sec: 105.001
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00129702
+2: 176
+3: 597
+4: 679
+5: 11
+6: 0.0121951
+Generation: 26, 0 done! 
+Fittness: 25, max score: 156940, avg score: 90402.9, max tile: 8192, avg_move_sec: 105.032
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 3
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00121507
+2: 713
+3: 801
+4: 563
+5: 583
+6: 0.0019685
+Generation: 26, 29 done! 
+Fittness: 0, max score: 29956, avg score: 12472.6, max tile: 2048, avg_move_sec: 104.95
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00210526
+2: 170
+3: 658
+4: 639
+5: 344
+6: 0.00367647
+Generation: 27, 0 done! 
+Fittness: 36, max score: 161148, avg score: 108888, max tile: 8192, avg_move_sec: 105.001
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 9
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00174825
+2: 462
+3: 804
+4: 406
+5: 403
+6: 0.00487805
+Generation: 27, 29 done! 
+Fittness: 0, max score: 27328, avg score: 15168.9, max tile: 2048, avg_move_sec: 105.03
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00158228
+2: 414
+3: 6
+4: 679
+5: 618
+6: 0.00151745
+Generation: 28, 0 done! 
+Fittness: 32, max score: 171024, avg score: 90449.4, max tile: 8192, avg_move_sec: 105.007
+2048 Rate: 14
+4096 Rate: 11
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00333333
+2: 388
+3: 905
+4: 97
+5: 389
+6: 0.00319489
+Generation: 28, 29 done! 
+Fittness: 0, max score: 24104, avg score: 14316.6, max tile: 2048, avg_move_sec: 105.037
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0025974
+2: 48
+3: 989
+4: 526
+5: 389
+6: 0.00105932
+Generation: 29, 0 done! 
+Fittness: 37, max score: 176932, avg score: 106122, max tile: 8192, avg_move_sec: 105.016
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 7
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00333333
+2: 388
+3: 905
+4: 97
+5: 389
+6: 0.00319489
+Generation: 29, 29 done! 
+Fittness: 0, max score: 23136, avg score: 10289.4, max tile: 1024, avg_move_sec: 104.956
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00121507
+2: 40
+3: 309
+4: 299
+5: 548
+6: 0.00217391
+Generation: 30, 0 done! 
+Fittness: 39, max score: 169128, avg score: 104277, max tile: 8192, avg_move_sec: 122.734
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00395257
+2: 753
+3: 858
+4: 529
+5: 600
+6: 0.00179211
+Generation: 30, 29 done! 
+Fittness: 0, max score: 49860, avg score: 17710.9, max tile: 4096, avg_move_sec: 105.019
+2048 Rate: 4
+4096 Rate: 1
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00185185
+2: 514
+3: 744
+4: 924
+5: 852
+6: 0.00182482
+Generation: 31, 0 done! 
+Fittness: 37, max score: 175504, avg score: 89296.3, max tile: 8192, avg_move_sec: 105.004
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 3
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00333333
+2: 388
+3: 905
+4: 97
+5: 389
+6: 0.00319489
+Generation: 31, 29 done! 
+Fittness: 0, max score: 27408, avg score: 11692.3, max tile: 2048, avg_move_sec: 164.25
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0181818
+2: 172
+3: 804
+4: 581
+5: 801
+6: 0.00729927
+Generation: 32, 0 done! 
+Fittness: 39, max score: 159084, avg score: 84193.4, max tile: 8192, avg_move_sec: 105.053
+2048 Rate: 14
+4096 Rate: 11
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0028169
+2: 587
+3: 801
+4: 80
+5: 805
+6: 0.25
+Generation: 32, 29 done! 
+Fittness: 0, max score: 26988, avg score: 9284.57, max tile: 2048, avg_move_sec: 543.59
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0526316
+2: 232
+3: 996
+4: 757
+5: 767
+6: 0.00201207
+Generation: 33, 0 done! 
+Fittness: 28, max score: 168640, avg score: 98001.4, max tile: 8192, avg_move_sec: 111.239
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00378788
+2: 388
+3: 905
+4: 97
+5: 389
+6: 0.00319489
+Generation: 33, 29 done! 
+Fittness: 0, max score: 35084, avg score: 12529.7, max tile: 2048, avg_move_sec: 509.836
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0416667
+2: 35
+3: 984
+4: 391
+5: 317
+6: 0.00769231
+Generation: 34, 0 done! 
+Fittness: 40, max score: 177932, avg score: 112206, max tile: 8192, avg_move_sec: 107.527
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 7
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00378788
+2: 388
+3: 905
+4: 97
+5: 389
+6: 0.00319489
+Generation: 34, 29 done! 
+Fittness: 0, max score: 25900, avg score: 12547.4, max tile: 2048, avg_move_sec: 105.118
+2048 Rate: 3
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00632911
+2: 200
+3: 209
+4: 561
+5: 558
+6: 0.00806452
+Generation: 35, 0 done! 
+Fittness: 24, max score: 157220, avg score: 82956, max tile: 8192, avg_move_sec: 105.18
+2048 Rate: 13
+4096 Rate: 11
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00174825
+2: 462
+3: 605
+4: 224
+5: 38
+6: 0.00129366
+Generation: 35, 29 done! 
+Fittness: 0, max score: 56324, avg score: 13137.1, max tile: 2048, avg_move_sec: 105.009
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0017452
+2: 140
+3: 932
+4: 739
+5: 619
+6: 0.00558659
+Generation: 36, 0 done! 
+Fittness: 33, max score: 168300, avg score: 83232.9, max tile: 8192, avg_move_sec: 105.012
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 3
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00174825
+2: 462
+3: 876
+4: 224
+5: 38
+6: 0.00129366
+Generation: 36, 29 done! 
+Fittness: 0, max score: 59752, avg score: 18749.7, max tile: 4096, avg_move_sec: 105.014
+2048 Rate: 2
+4096 Rate: 1
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.010989
+2: 40
+3: 964
+4: 140
+5: 660
+6: 0.00149925
+Generation: 37, 0 done! 
+Fittness: 30, max score: 169092, avg score: 99676, max tile: 8192, avg_move_sec: 105.005
+2048 Rate: 13
+4096 Rate: 12
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0019084
+2: 388
+3: 694
+4: 260
+5: 389
+6: 0.00224719
+Generation: 37, 29 done! 
+Fittness: 0, max score: 16208, avg score: 6317.43, max tile: 1024, avg_move_sec: 105.037
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00208333
+2: 16
+3: 198
+4: 763
+5: 675
+6: 0.00112994
+Generation: 38, 0 done! 
+Fittness: 34, max score: 177316, avg score: 126036, max tile: 8192, avg_move_sec: 105.01
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 10
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0019084
+2: 388
+3: 694
+4: 260
+5: 389
+6: 0.00224719
+Generation: 38, 29 done! 
+Fittness: 0, max score: 17572, avg score: 7141.14, max tile: 1024, avg_move_sec: 105.009
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0041841
+2: 72
+3: 187
+4: 308
+5: 276
+6: 0.00118203
+Generation: 39, 0 done! 
+Fittness: 31, max score: 133828, avg score: 93431.1, max tile: 8192, avg_move_sec: 105.008
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00185529
+2: 696
+3: 936
+4: 479
+5: 712
+6: 0.00140647
+Generation: 39, 29 done! 
+Fittness: 0, max score: 13548, avg score: 5316.57, max tile: 1024, avg_move_sec: 104.7
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00101112
+2: 25
+3: 406
+4: 611
+5: 292
+6: 0.00115875
+Generation: 40, 0 done! 
+Fittness: 26, max score: 148108, avg score: 80562, max tile: 8192, avg_move_sec: 105.028
+2048 Rate: 13
+4096 Rate: 9
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00171233
+2: 528
+3: 906
+4: 646
+5: 441
+6: 0.0217391
+Generation: 40, 29 done! 
+Fittness: 0, max score: 26080, avg score: 6314, max tile: 2048, avg_move_sec: 104.996
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00109769
+2: 228
+3: 79
+4: 661
+5: 339
+6: 0.00289017
+Generation: 41, 0 done! 
+Fittness: 36, max score: 156012, avg score: 89597.7, max tile: 8192, avg_move_sec: 105.015
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00197239
+2: 642
+3: 674
+4: 624
+5: 278
+6: 0.00636943
+Generation: 41, 29 done! 
+Fittness: 0, max score: 47052, avg score: 14999.1, max tile: 2048, avg_move_sec: 104.983
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00183486
+2: 190
+3: 296
+4: 356
+5: 796
+6: 0.00151745
+Generation: 42, 0 done! 
+Fittness: 28, max score: 167440, avg score: 85342.3, max tile: 8192, avg_move_sec: 105.004
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 3
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00229358
+2: 874
+3: 661
+4: 790
+5: 879
+6: 0.00121655
+Generation: 42, 29 done! 
+Fittness: 0, max score: 16000, avg score: 6478, max tile: 1024, avg_move_sec: 105.038
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0015748
+2: 125
+3: 420
+4: 732
+5: 545
+6: 0.00145349
+Generation: 43, 0 done! 
+Fittness: 32, max score: 157292, avg score: 93098.3, max tile: 8192, avg_move_sec: 214.5
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00666667
+2: 819
+3: 985
+4: 427
+5: 978
+6: 0.00136986
+Generation: 43, 29 done! 
+Fittness: 0, max score: 19492, avg score: 11512.9, max tile: 1024, avg_move_sec: 105.017
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00131752
+2: 54
+3: 613
+4: 289
+5: 777
+6: 0.00434783
+Generation: 44, 0 done! 
+Fittness: 26, max score: 168308, avg score: 92589.1, max tile: 8192, avg_move_sec: 104.996
+2048 Rate: 13
+4096 Rate: 11
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00174216
+2: 734
+3: 852
+4: 568
+5: 772
+6: 0.00444444
+Generation: 44, 29 done! 
+Fittness: 0, max score: 18608, avg score: 11757.4, max tile: 1024, avg_move_sec: 104.996
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00746269
+2: 38
+3: 722
+4: 594
+5: 744
+6: 0.00149254
+Generation: 45, 0 done! 
+Fittness: 30, max score: 168064, avg score: 99315.4, max tile: 8192, avg_move_sec: 105.491
+2048 Rate: 13
+4096 Rate: 13
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00229358
+2: 813
+3: 924
+4: 407
+5: 717
+6: 0.00151515
+Generation: 45, 29 done! 
+Fittness: 0, max score: 51764, avg score: 22283.7, max tile: 4096, avg_move_sec: 105.001
+2048 Rate: 6
+4096 Rate: 1
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00137931
+2: 637
+3: 68
+4: 979
+5: 330
+6: 0.00617284
+Generation: 46, 0 done! 
+Fittness: 30, max score: 173312, avg score: 89027.1, max tile: 8192, avg_move_sec: 105.003
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00238095
+2: 738
+3: 821
+4: 413
+5: 745
+6: 0.00145138
+Generation: 46, 29 done! 
+Fittness: 0, max score: 16844, avg score: 6432.57, max tile: 1024, avg_move_sec: 105.128
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00211416
+2: 66
+3: 48
+4: 624
+5: 340
+6: 0.015873
+Generation: 47, 0 done! 
+Fittness: 33, max score: 168576, avg score: 104129, max tile: 8192, avg_move_sec: 105.025
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 7
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00238095
+2: 738
+3: 821
+4: 413
+5: 745
+6: 0.00145138
+Generation: 47, 29 done! 
+Fittness: 0, max score: 20136, avg score: 7568.57, max tile: 1024, avg_move_sec: 104.994
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0020202
+2: 46
+3: 112
+4: 272
+5: 752
+6: 0.00122249
+Generation: 48, 0 done! 
+Fittness: 37, max score: 156900, avg score: 100287, max tile: 8192, avg_move_sec: 105.021
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00238095
+2: 738
+3: 821
+4: 413
+5: 745
+6: 0.0015456
+Generation: 48, 29 done! 
+Fittness: 0, max score: 29400, avg score: 10460, max tile: 2048, avg_move_sec: 105.024
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00917431
+2: 110
+3: 234
+4: 778
+5: 784
+6: 0.00719424
+Generation: 49, 0 done! 
+Fittness: 33, max score: 133376, avg score: 90252, max tile: 8192, avg_move_sec: 105.012
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00112233
+2: 951
+3: 986
+4: 412
+5: 941
+6: 0.00378788
+Generation: 49, 29 done! 
+Fittness: 0, max score: 35768, avg score: 10989.4, max tile: 2048, avg_move_sec: 105.042
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00105932
+2: 89
+3: 412
+4: 294
+5: 651
+6: 0.0026455
+Generation: 50, 0 done! 
+Fittness: 33, max score: 156648, avg score: 87497.7, max tile: 8192, avg_move_sec: 105.007
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 4
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00112233
+2: 951
+3: 986
+4: 412
+5: 941
+6: 0.00378788
+Generation: 50, 29 done! 
+Fittness: 0, max score: 22556, avg score: 9338.57, max tile: 2048, avg_move_sec: 105.101
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00287356
+2: 89
+3: 737
+4: 925
+5: 503
+6: 0.00102459
+Generation: 51, 0 done! 
+Fittness: 31, max score: 133484, avg score: 89176.6, max tile: 8192, avg_move_sec: 105.006
+2048 Rate: 14
+4096 Rate: 11
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00103734
+2: 594
+3: 795
+4: 495
+5: 719
+6: 0.00101833
+Generation: 51, 29 done! 
+Fittness: 0, max score: 30624, avg score: 11367.7, max tile: 2048, avg_move_sec: 104.965
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00107411
+2: 158
+3: 494
+4: 575
+5: 961
+6: 0.0025641
+Generation: 52, 0 done! 
+Fittness: 29, max score: 173288, avg score: 85386.6, max tile: 8192, avg_move_sec: 105.021
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 3
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00185874
+2: 654
+3: 813
+4: 369
+5: 661
+6: 0.0014556
+Generation: 52, 29 done! 
+Fittness: 0, max score: 14308, avg score: 6341.71, max tile: 1024, avg_move_sec: 530.286
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0526316
+2: 65
+3: 994
+4: 594
+5: 674
+6: 0.0012285
+Generation: 53, 0 done! 
+Fittness: 39, max score: 173560, avg score: 109069, max tile: 8192, avg_move_sec: 105.007
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 7
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0015015
+2: 523
+3: 851
+4: 296
+5: 681
+6: 0.00125
+Generation: 53, 29 done! 
+Fittness: 0, max score: 34536, avg score: 17429.7, max tile: 2048, avg_move_sec: 105.018
+2048 Rate: 6
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00199601
+2: 239
+3: 207
+4: 495
+5: 306
+6: 0.00101833
+Generation: 54, 0 done! 
+Fittness: 40, max score: 175652, avg score: 99440.6, max tile: 8192, avg_move_sec: 105.015
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00185874
+2: 654
+3: 813
+4: 369
+5: 661
+6: 0.0014556
+Generation: 54, 29 done! 
+Fittness: 0, max score: 15440, avg score: 4808.57, max tile: 1024, avg_move_sec: 105.062
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00104384
+2: 44
+3: 148
+4: 622
+5: 367
+6: 0.00109051
+Generation: 55, 0 done! 
+Fittness: 37, max score: 158648, avg score: 104135, max tile: 8192, avg_move_sec: 105.041
+2048 Rate: 14
+4096 Rate: 14
+8192 Rate: 7
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00322581
+2: 734
+3: 869
+4: 256
+5: 990
+6: 0.0105263
+Generation: 55, 29 done! 
+Fittness: 0, max score: 91760, avg score: 32029.1, max tile: 4096, avg_move_sec: 104.997
+2048 Rate: 6
+4096 Rate: 2
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00243309
+2: 430
+3: 795
+4: 596
+5: 731
+6: 0.0208333
+Generation: 56, 0 done! 
+Fittness: 34, max score: 157144, avg score: 88652, max tile: 8192, avg_move_sec: 105.016
+2048 Rate: 14
+4096 Rate: 11
+8192 Rate: 5
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0015015
+2: 773
+3: 780
+4: 517
+5: 681
+6: 0.0204082
+Generation: 56, 29 done! 
+Fittness: 0, max score: 27584, avg score: 12353.1, max tile: 2048, avg_move_sec: 104.964
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00111857
+2: 2
+3: 821
+4: 816
+5: 275
+6: 0.0588235
+Generation: 57, 0 done! 
+Fittness: 39, max score: 163388, avg score: 103476, max tile: 8192, avg_move_sec: 105.011
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00135685
+2: 483
+3: 996
+4: 376
+5: 475
+6: 0.00138122
+Generation: 57, 29 done! 
+Fittness: 0, max score: 17696, avg score: 9487.43, max tile: 1024, avg_move_sec: 105
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0019685
+2: 238
+3: 764
+4: 655
+5: 899
+6: 0.00584795
+Generation: 58, 0 done! 
+Fittness: 38, max score: 168032, avg score: 108358, max tile: 8192, avg_move_sec: 105.019
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 7
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00112994
+2: 282
+3: 799
+4: 150
+5: 183
+6: 0.00195313
+Generation: 58, 29 done! 
+Fittness: 0, max score: 40888, avg score: 12867.1, max tile: 2048, avg_move_sec: 104.978
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00113766
+2: 393
+3: 869
+4: 864
+5: 811
+6: 0.0015456
+Generation: 59, 0 done! 
+Fittness: 35, max score: 173416, avg score: 116297, max tile: 8192, avg_move_sec: 114.746
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 8
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.003367
+2: 455
+3: 868
+4: 342
+5: 118
+6: 0.00512821
+Generation: 59, 29 done! 
+Fittness: 0, max score: 15592, avg score: 6970.29, max tile: 1024, avg_move_sec: 104.972
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00127226
+2: 252
+3: 69
+4: 791
+5: 687
+6: 0.00103199
+Generation: 60, 0 done! 
+Fittness: 40, max score: 164464, avg score: 85334.3, max tile: 8192, avg_move_sec: 105.759
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 3
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0025974
+2: 594
+3: 418
+4: 192
+5: 645
+6: 0.00219298
+Generation: 60, 29 done! 
+Fittness: 0, max score: 33588, avg score: 11229.4, max tile: 2048, avg_move_sec: 105.123
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00540541
+2: 195
+3: 204
+4: 903
+5: 311
+6: 0.00106157
+Generation: 61, 0 done! 
+Fittness: 34, max score: 173116, avg score: 101002, max tile: 8192, avg_move_sec: 105.007
+2048 Rate: 14
+4096 Rate: 11
+8192 Rate: 7
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00136426
+2: 282
+3: 799
+4: 150
+5: 183
+6: 0.00406504
+Generation: 61, 29 done! 
+Fittness: 0, max score: 21688, avg score: 8387.71, max tile: 2048, avg_move_sec: 929.784
+2048 Rate: 1
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0625
+2: 302
+3: 138
+4: 643
+5: 991
+6: 0.00105597
+Generation: 62, 0 done! 
+Fittness: 36, max score: 166052, avg score: 111476, max tile: 8192, avg_move_sec: 105.059
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 8
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00309598
+2: 325
+3: 664
+4: 119
+5: 238
+6: 0.00408163
+Generation: 62, 29 done! 
+Fittness: 0, max score: 54104, avg score: 19273.4, max tile: 4096, avg_move_sec: 104.992
+2048 Rate: 4
+4096 Rate: 1
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00961538
+2: 429
+3: 154
+4: 781
+5: 947
+6: 0.00515464
+Generation: 63, 0 done! 
+Fittness: 35, max score: 157312, avg score: 95480, max tile: 8192, avg_move_sec: 105.019
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00315457
+2: 606
+3: 897
+4: 432
+5: 633
+6: 0.00299401
+Generation: 63, 29 done! 
+Fittness: 0, max score: 16264, avg score: 5300.29, max tile: 1024, avg_move_sec: 105.027
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00123762
+2: 61
+3: 19
+4: 609
+5: 369
+6: 0.00188324
+Generation: 64, 0 done! 
+Fittness: 36, max score: 168384, avg score: 113427, max tile: 8192, avg_move_sec: 105.009
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 9
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00136426
+2: 282
+3: 799
+4: 150
+5: 183
+6: 0.00406504
+Generation: 64, 29 done! 
+Fittness: 0, max score: 34964, avg score: 10113.7, max tile: 2048, avg_move_sec: 105.016
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00181488
+2: 55
+3: 680
+4: 397
+5: 682
+6: 0.00126263
+Generation: 65, 0 done! 
+Fittness: 33, max score: 174892, avg score: 109355, max tile: 8192, avg_move_sec: 105.001
+2048 Rate: 14
+4096 Rate: 13
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00187617
+2: 549
+3: 896
+4: 511
+5: 317
+6: 0.001221
+Generation: 65, 29 done! 
+Fittness: 0, max score: 31900, avg score: 12764, max tile: 2048, avg_move_sec: 105.029
+2048 Rate: 2
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.0015748
+2: 288
+3: 4
+4: 726
+5: 966
+6: 0.00146843
+Generation: 66, 0 done! 
+Fittness: 30, max score: 281356, avg score: 102780, max tile: 16384, avg_move_sec: 105.014
+2048 Rate: 13
+4096 Rate: 13
+8192 Rate: 5
+16384 Rate: 1
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00115207
+2: 401
+3: 843
+4: 231
+5: 398
+6: 0.0046729
+Generation: 66, 29 done! 
+Fittness: 0, max score: 38124, avg score: 19782.3, max tile: 2048, avg_move_sec: 105.052
+2048 Rate: 6
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00181159
+2: 540
+3: 260
+4: 992
+5: 757
+6: 0.00149477
+Generation: 67, 0 done! 
+Fittness: 38, max score: 173748, avg score: 97758.6, max tile: 8192, avg_move_sec: 105.007
+2048 Rate: 14
+4096 Rate: 12
+8192 Rate: 6
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00115207
+2: 401
+3: 843
+4: 231
+5: 398
+6: 0.0046729
+Generation: 67, 29 done! 
+Fittness: 0, max score: 15060, avg score: 6904.57, max tile: 1024, avg_move_sec: 105.164
+2048 Rate: 0
+4096 Rate: 0
+8192 Rate: 0
+16384 Rate: 0
+32768 Rate: 0
+65536 Rate: 0
+131072 Rate: 0
+param: 
+1: 0.00440529
+2: 325
+3: 56
+4: 935
+5: 785
+6: 0.00182482
